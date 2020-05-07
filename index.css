@@ -1,6 +1,17 @@
 body {
     background-color: black;
 }
+
 header {
-    
+    position: relative;
+    margin-top: 0;
+    border-bottom: 1px solid;
+}
+div {
+
+}
+footer {
+    position: relative;
+    margin-bottom: 0;
+    border-top: 1px solid;
 }
