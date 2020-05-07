@@ -1,1 +1,1 @@
-Copying the google homepage and making some mods.
+Recreating the google homepage.
