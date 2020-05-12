@@ -6,13 +6,22 @@ header {
     margin-top: 0;
     border-bottom: 1px solid;
 }
-.navbar {
+.nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
+.nav li {
+    display: inline;
+}
+.left-nav {
+    float: left;
+}
+.right-nav {
+    float: right;
+}
 #center {
-
+    position: center;
 }
 footer {
     position: relative;
